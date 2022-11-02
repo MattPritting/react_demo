@@ -22,4 +22,9 @@ function App() {
 
 //forever start -c "npm start" react_demo/
 
+//OR
+
+//tmux
+//npm start
+
 export default App;
