@@ -10,6 +10,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Matt Pritting - z69n753</h1>
       <MyCounter incBy={1} />
       <hr></hr>
       <MyCounter incBy={2} decBy={3}/>
