@@ -6,6 +6,5 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
-    <p>Class is over...</p>
   </React.StrictMode>
 );
